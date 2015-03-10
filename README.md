@@ -1,5 +1,5 @@
-# yiihttp
-Change Display off Http ON Yii 2
+# yiiurl
+Change Display of URL address ON Yii 2
 
 UPDATE File : config/web.php IN 'components' array And add Source:
 
